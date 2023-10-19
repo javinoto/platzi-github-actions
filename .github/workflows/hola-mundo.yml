@@ -1,4 +1,4 @@
-name: Mi primer github action                   # Workflow name
+name: Aprendiendo GitHub Actions                # Workflow name
 run-name: ¡Estoy aprendiendo github actions!
 on: [push]                                      # Controls when the workflow will run
                                                 # This workflow works when make a push to any branch
